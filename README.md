@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://i.imgur.com/ty9TwbY.png)
+
+### 歡迎來到我的GitHub 目前是位前端工程師實習生👩
