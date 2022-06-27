@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 ![](https://i.imgur.com/ty9TwbY.png)
 
-### 歡迎來到我的GitHub 目前是位前端工程師實習生👩
+### 歡迎來到我的GitHub 曾經是位前端工程師實習生👩
+### 現在是準備成為F2E的新鮮人💪
