@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://i.imgur.com/ty9TwbY.png)
 
 ### 歡迎來到我的GitHub 曾經是位前端工程師實習生👩
-### 現在是準備成為F2E的新鮮人💪
+### 今年8月開始是F2E的新鮮人💪
 
 ![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)
