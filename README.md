@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)
 -->
 
-🔮設計：
+🔮美感設計：
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
-🖥系統相關：
+🖥作業系統：
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 
 |  | |
 |--|--| 
-|![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)|
