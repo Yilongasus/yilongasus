@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### 歡迎來到我的GitHub 曾經是位前端工程師實習生👩
 ### 今年8月開始是F2E的新鮮人💪
 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)
-
+-->
 
 🔮設計：
 
@@ -79,3 +79,8 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+
+
+|  | |
+|--|--| 
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)|
