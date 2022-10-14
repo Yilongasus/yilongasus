@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### 今年8月開始是F2E的新鮮人💪
 
 <div align="left">
-![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)
+[!](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)
+[!](https://github-readme-stats.vercel.app/api/top-langs/?username=Yilongasus&layout=compact)
 </div>
 
 設計：
