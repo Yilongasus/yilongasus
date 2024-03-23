@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![](https://i.imgur.com/ty9TwbY.png)
 
-### 歡迎來到我的GitHub 曾經是位前端工程師實習生👩
-### 2022/8 開始是F2E新鮮人💪
+### 歡迎來到我的GitHub✨✨
+### 從 2022 年 8 月開始，我踏入前端工程師的行列💻
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Yilongasus&show_icons=true)
